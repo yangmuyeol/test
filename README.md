@@ -27,3 +27,18 @@ title2
 - list2
 - list3
 - list4
+
+# 강조
+
+This is 'apple'
+
+'''html
+<a href="hrrp://google.com">Google</a>
+'''
+
+'''javascript
+function func(){
+	var a = 1;
+	return a;
+}
+'''
