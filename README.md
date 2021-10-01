@@ -13,7 +13,13 @@ title2
 # List Tag
 
 1. list1
-2. list2
+	1. sub_list1
+	1. sub_list2
+	1. sub_list3
+1. list2
+	- sub_list1
+	+ sub_list2
+	* sub_list3
 3. list3
 4. list4
 
